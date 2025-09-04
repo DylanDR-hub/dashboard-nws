@@ -46,9 +46,9 @@ const data = {
       icon: IconDashboard,
     },
     {
-      title: "Transactions",
-      url: "/transactions",
-      icon: IconListDetails,
+      title: "Élèves",
+      url: "/eleves",
+      icon: IconUsers,
     },
     {
       title: "Clients",
