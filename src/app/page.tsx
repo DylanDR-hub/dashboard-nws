@@ -5,7 +5,6 @@ import {students25, students24} from "@/data/students";
 import React from "react";
 import GraduateChart from "@/components/dashboard/GraduatedChart";
 import {StudentByLevel} from "@/components/dashboard/StudentByLevel";
-import StudentBySpe from "@/components/dashboard/StudentBySpe";
 
 
 export default function Home() {
